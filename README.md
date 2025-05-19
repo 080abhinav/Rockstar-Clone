@@ -1,6 +1,6 @@
 # <ins>Rockstar Website Clone</ins>
 
-This is my **first website project** — a fan-made clone of the Rockstar Games homepage.  
+This is my **first attempt at building a website** - a fan-made clone of the Rockstar Games homepage.  
 It was created to practice and showcase my web development skills, including layout design, responsiveness, and styling using HTML and CSS.
 
 ---
@@ -14,7 +14,7 @@ It was created to practice and showcase my web development skills, including lay
 
 - **HTML5**
 - **CSS3**
-- [**Font Awesome**](https://fontawesome.com/) — for icons
+- [**Font Awesome**](https://fontawesome.com/) - for icons
 
 ---
 
